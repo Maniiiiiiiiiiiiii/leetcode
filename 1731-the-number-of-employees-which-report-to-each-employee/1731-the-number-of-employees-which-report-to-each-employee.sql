@@ -1,0 +1,1 @@
+select e.employee_id, e.name, count(a.reports_to) as reports_count, round(avg(a.age)) as average_age from employees as e join employees as a on e.employee_id=a.reports_to where e.employee_id = a.reports_to group by a.reports_to having count(a.reports_to)>=1 order by e.employee_id;
