@@ -18,4 +18,5 @@
 | [1693-daily-leads-and-partners](https://github.com/Maniiiiiiiiiiiiii/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Maniiiiiiiiiiiiii/leetcode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Maniiiiiiiiiiiiii/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Maniiiiiiiiiiiiii/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
